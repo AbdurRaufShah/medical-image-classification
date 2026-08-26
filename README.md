@@ -109,4 +109,4 @@ This project is open-source and available under the MIT License.
 ## 🙋 Author
 
 **[Abdur Rauf Shah]**
-[LinkedIn](https://www.linkedin.com/in/abdur-rauf-shah/) | [GitHub](https://github.com/AbdurRaufShah) | [Email](abdurraufhashmi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdur-rauf-shah/) | [GitHub](https://github.com/AbdurRaufShah) 
