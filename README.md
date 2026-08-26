@@ -1,4 +1,4 @@
-# Medical Image Classification using Deep Learning 🩺🧠
+# PneumoScan — Medical Image Classification System (Chest X-Ray Pneumonia Detection) 🩺🧠
 
 A transfer-learning based image classification system for detecting diseases from medical images (X-ray / MRI / skin lesion) using **MobileNetV2** and TensorFlow/Keras.
 
